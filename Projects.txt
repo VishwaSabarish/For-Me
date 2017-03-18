@@ -2,32 +2,49 @@ Projects Worked
 =================
 Asp - Web
 ==========
+ABBY_WEB (ABBY Flexi Capture)
 BlackArt
 BOE
 CTS
 DayPilotLite
+GitHubApi
 IntranetPortal
 JaiApp
 MainOrg
 Mass Booking
 Medrollers
 OCL Booking
+PoolClub (MySnooker)
 RouteManagerOnline
 RouteWarriorOnline
+RoyalBlood (RoyalBlood Studios)
 Ruber R1
+SignalRWeb (SignalR)
 Sindal
 SocialMedia
 Vos
 
+Asp-WCF
+===========
+WCFSchoolStudents
 
 Windows
 ========
-Cepos
 ADMS
+Cepos
+MMS
+MyPlywood
 TestPanelCalculation
+Vesture
 
 HTML
 =======
 Pulsatile
+
+PHP
+=======
+visaagent (SuiteCRM)
+VTEL (VOS) (EspoCRM)
+-----
 
 Total Projects = 20
